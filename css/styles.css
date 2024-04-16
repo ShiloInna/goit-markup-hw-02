@@ -73,6 +73,9 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
 }
+.our-servis-bt {
+  background-color: #4d5ae5;
+}
 
 .our-servis-bt:hover,
 .our-servis-bt:focus {
