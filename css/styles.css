@@ -31,6 +31,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .menu-link:hover,
 .menu-link:focus {
@@ -42,6 +43,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .address {
   font-style: normal;
@@ -55,11 +57,12 @@ button {
 .main-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
+
 .title {
   background-color: #2e2f42;
 }
@@ -73,7 +76,8 @@ button {
 .our-servis-bt {
   background-color: #404bbf;
 }
-.our-servis-bt:hover .our-servis-bt:focus {
+.our-servis-bt:hover,
+.our-servis-bt:focus {
   color: #fff;
 }
 /* ================== BENEFITS STYLES================== */
@@ -94,18 +98,24 @@ button {
 .time-page {
   background-color: #f4f4fd;
 }
+.list-time {
+  background-color: #fff;
+}
 .title-time {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
+
 .list-time-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .list-time-text {
   font-weight: 400;
@@ -118,7 +128,7 @@ button {
 .title-portfolio {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -128,6 +138,7 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .portfolio-text {
   font-weight: 400;
