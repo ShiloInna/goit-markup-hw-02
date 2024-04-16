@@ -73,13 +73,12 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
 }
-.our-servis-bt {
-  background-color: #4d5ae5;
-}
+
 .our-servis-bt:hover,
 .our-servis-bt:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
+
 /* ================== BENEFITS STYLES================== */
 .list-benefits-title {
   font-weight: 500;
@@ -98,7 +97,7 @@ button {
 .time-page {
   background-color: #f4f4fd;
 }
-.list-time {
+.list-time-item {
   background-color: #ffffff;
 }
 .title-time {
