@@ -74,7 +74,7 @@ button {
   color: #fff;
 }
 .our-servis-bt {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
 }
 .our-servis-bt:hover,
 .our-servis-bt:focus {
@@ -132,6 +132,12 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+.portfolio-list {
+  background-color: #ffffff;
+}
+.title-portfolio {
+  text-transform: capitalize;
 }
 .portfolio-subtitle {
   font-weight: 500;
